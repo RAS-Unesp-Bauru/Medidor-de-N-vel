@@ -12,4 +12,4 @@ O ***Medidor de Nível***
 - Bibliotecas do Arduino
 - Arduino Uno
 - Sensor
-- 
+- fabricio fazendo merda no script
