@@ -10,6 +10,10 @@ O ***Medidor de Nível***
 ### Ferramentas utilizadas para o software:
 - Ambiente de desenvolvimento do Arduino
 - Bibliotecas do Arduino
+### Ferramentas utilizadas para o hardware:
 - Arduino Uno
 - Sensor
-- fabricio fazendo merda no script
+- LCD 16x2
+- Poteênciomentro de 10k
+- Breadboard
+- Jumpers
