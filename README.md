@@ -19,4 +19,3 @@ O ***Medidor de Nível***
 - Jumpers
 ### Esquema de montagem:
 ![tinker cad simpleficado](https://user-images.githubusercontent.com/98185406/183536736-d8cbc30b-3e6d-495f-8d8d-b0046bda7f80.PNG)
-### :
