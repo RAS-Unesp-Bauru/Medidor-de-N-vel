@@ -14,6 +14,6 @@ O ***Medidor de Nível***
 - Arduino Uno
 - Sensor
 - LCD 16x2
-- Poteênciomentro de 10k
+- Potênciomentro de 10k
 - Breadboard
 - Jumpers
